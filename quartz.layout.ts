@@ -37,12 +37,13 @@ export const defaultContentPageLayout: PageLayout = {
         // { Component: Component.ReaderMode() }, // *Enlever les slash ici afin de réablir la fonction et l'icône
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ title: "Index"}),
   ],
   right: [
     // Component.Graph(), // *Enlever les slash ici afin de réablir la fonction et l'icône
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.RecentNotes({ title: "Récent", showTags: false}),
   ],
 }
 

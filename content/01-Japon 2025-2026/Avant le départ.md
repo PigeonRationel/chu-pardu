@@ -8,3 +8,7 @@ draft: false
 ---
 ---
 Eh bin.
+
+[[index]]
+[[test]]
+

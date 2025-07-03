@@ -4,7 +4,6 @@ date: 2025-06-10
 id: "20250610093201"
 ---
 ---
-
 [Huh, fait que, je tente de partir un blog ?](https://pigeonrationel.github.io/chu-pardu/).
 
 Juste un p'tit test. Je vais mettre ici mes quelques idées, découvertes et pensées qui popperont, peut-être, dans la prochaine année.
