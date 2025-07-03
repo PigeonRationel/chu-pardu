@@ -3,18 +3,33 @@
 // put your custom CSS here!
 
 .page {
-text-align: justify;
+  text-align: justify;
   overflow-x: hidden;
   width: 100vw;
-  word-break: keep-all;
+  word-break: auto-phrase;
   overflow-wrap: normal;
   hyphens: none;
   white-space: normal;
   }
   
+//Cette partie me permet de créer un cadre servant d'ombre au body text. Je peux ajouter ">article" après .center afin de spécifier encore plus la zone afin qu'elle prenne vraiment que la patie où le texte est écrit, plutôt que l'entièreté du centre.
+@media (min-width: 601px) {
+.page>#quartz-body .center {
+    grid-area: grid-center;
+    border-right: 1px none #888888;
+    border-left: 1px none #888888;
+    box-shadow: 1px 8rem 10px #888888;
+    clip-path: inset(-10px -20px 40px -20px); // Je ne comprends pas cette fonction, mais elle parvient à contrôler où l'ombre apparait. Le négatif dévoile et le positif cache. L'ordre est haut, droite, bas, gauche.
+    padding: 0.5rem;
+    background-color: #88888815;//Ici je change la couleur du centre de la page afin de créer un meilleur contraste de couleur. Les deux derniers chiffres déterminent l'opacité de la couleur. FF serait une opacité de 100% alors que 00 de zéro.
+    opacity: 1;
+    }
+}
+
+  
 p {
-font-size: 1.3rem;
-line-height: 1.4;
+  font-size: 1.3rem;
+  line-height: 1.4;
 }
 
 .page-title {
@@ -29,7 +44,7 @@ line-height: 1.4;
     position: static !important;
   }
   html {
-text-align: left;
+  text-align: left;
   overflow-x: hidden;
   width: 100vw;
   }
