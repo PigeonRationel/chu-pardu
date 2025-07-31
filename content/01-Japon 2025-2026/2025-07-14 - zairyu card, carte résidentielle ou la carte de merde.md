@@ -15,4 +15,4 @@ Suivant un déménagement, on a 14 jours pour faire cet enregistrement, sinon...
 
 Dans mon cas, la "vraie" date limite est plutôt de 3 mois. Après quoi, l'immigrant devient illégal, au risque d'avoir une amende ou de se faire déporter. Maaaaais. Il semble que les autorités peuvent être aimable dans un cas de PVT. Rien de certain donc. Fuuun.
 
-Bref. Faut se trouver une adresse. Mais pour ça, faut comprendre les consignes de l'hôtel de ville. Il faut aussi se désenregistrer, **en personne**, si on veut changer d'adresse...  ou avant de quitter le pays. Donc, si l'adresse est bien loin de l'aéroport, on peut de suite imaginer comment se désister peut être bien pénible et coûteux. 
+Bref. Faut se trouver une adresse. Mais pour ça, faut comprendre les consignes de l'hôtel de ville. Il faut aussi se désenregistrer, **en personne**, si on veut changer d'adresse...  ou avant de quitter le pays. Donc, si l'adresse est bien loin de l'aéroport, on peut de suite imaginer comment se désister peut être bien pénible et coûteux.
