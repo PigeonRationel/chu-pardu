@@ -9,7 +9,7 @@ Mise à jour: 2025-07-31
 
 [Voici un petit blog suivant mon voyage au Japon sous un visa vacance-travail de l'été 2025 à 2026 ?](https://pigeonrationel.github.io/chu-pardu/). Il ne s'agit pas tant d'un blog que de mon carnet de voyage personnel que je rend public afin d'avoir une excuse pour écrire et apprendre les bases afin de maintenir un site web.
 
-Juste un p'tit test. Je vais mettre ici mes quelques idées, découvertes et pensées qui popperont, peut-être, dans la prochaine année.
+Juste un p'tit test. Je vais mettre ici mes quelques idées, découvertes et pensées qui popperont, peut-être, dans la prochaine année. Je ne révise pas mon orthographe plus que ça (hein !).
 
 # Site web statique en markdown
 

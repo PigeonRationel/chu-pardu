@@ -16,7 +16,9 @@ Il paraît que Beppu est l'un des endroits les plus reconnus du Japon pour ses o
 ![[20250722_102811.jpg|center]]
 <p style="text-align: center; font-size: 0.7em;">Hmmm. Me manque un contexte ici.</p>
 ![[20250722_125042.jpg|center]]
+
 ![[20250722_133324.jpg|center]]
+
 ![[20250722_134817.jpg|center]]
 
 # Hoyoland
@@ -34,6 +36,7 @@ Bref, un japonais est venu me parler, me demander ce que je faisais au Japon. Y 
 Aussi, les bains publics ne sont pas restreint par l'âge il semble.
 
 ![[20250722_163202.jpg|center]]
+
 ![[20250722_163435.jpg|center]]
 <p style="text-align: center; font-size: 0.7em;">Excusez le cadre dégueulasse. Pas supposé de prendre des photos dans un sento.</p>
 
@@ -44,43 +47,42 @@ En marchant dans Beppu je suis tombé sur un magasin de vêtements de secondes m
 Je comptais rien acheter, mais j'ai vu une chemise légère en denim et un pantalon 3/4 brun assez laid pas cher. J'ai alors décidé d'essayer la paire. Bha, il y avait un billet de 1000 yen dans l'une des poches du pantalon. Pas sûr de comprendre comment c'est possible et à quel point l'argent japonaise est imperméable (elle se déchire), mais ça sous-entend que le linge est pas lavé. Je comptais rien acheter, mais vu la situation, j'ai acheté la paire de vêtements pour 1045 yen. Étrange.
 
 ![[20250722_112356.jpg|center]]
-# Dépenses 
 
-1050 bus
-237 Lawson
-45 vêtements use avec un 1000 trouvé dans les poches du pantalons -> 1045 coût reel. 
-2400 jigaku credit
-100 oeuf steamé onsen
-500 soda de prune credit
-220 bus
-1500 onsen hoyoland
-20,660 retrait lawson de 200$
-149 lawson
-880 bus retour
+> [!Dépenses]
+> 1050 bus
+> 237 Lawson
+> 45 vêtements use avec un 1000 trouvé dans les poches du pantalons -> 1045 coût reel. 
+> 2400 jigaku credit
+> 100 oeuf steamé onsen
+> 500 soda de prune credit
+> 220 bus
+> 1500 onsen hoyoland
+> 20,660 retrait lawson de 200$
+> 149 lawson
+> 880 bus retour
+> 
+> Environ 10$ de nourriture, 25$ de transport, 40$ d'activités. Un total de 7,081 yen = 70.81$.
+> 
+> Plus un 660 de perdu en raison du retrait = 77.41$ sans le taux de change. Bref, la journée m'a pas mal coûté 80$.
+> 
+> Pas trop souvent hein.
 
-Environ 10$ de nourriture, 25$ de transport, 40$ d'activités. Un total de 7,081 yen = 70.81$.
-
-Plus un 660 de perdu en raison du retrait = 77.41$ sans le taux de change. Bref, la journée m'a pas mal coûté 80$.
-
-Pas trop souvent hein.
-
-## Calcul argent comptant
-
-**Premier retrait, le 11 juillet**
-20,000 : reste 14,000 en papier. 480 en monnaies. Je pense avoir calculé ça en négatif un peu en raison de la monnaies mixes avec mon nouveau retrait. 
-* 1000 suica
-* 170 vers Tokyo eiki
-* 1500 bus de narita environ ? Me semble je l'avais pas payé en crédit. À confirmer. Si c'est le cas, le compte semble bon et j'ai bien trouvé 1,000 dans les poches d'un pantalon use.
-* 1050 bus beppu 1
-* 1500 onsen beppu
-* 300? Il est allé où ? J'ai comme une impression que le 1000 trouvé dans les pantalons était le mien. J'avais sur mois 3000 yen au total aujourd'hui, mais je pensais en avoir pris 4000. Mais. Comment il est arrivé là si c'est le cas ? Il était pas plié comme je plie mes trucs non plus. Wtfffff.
-
-**Deuxième retrait, aujourd'hui**
-20,000 : reste 18000 papier. 1400 en monnaies. 
-* 149 lawson
-* 880 bus retour. 
-* ca fait 19,400 Wtf. J'en ai trop pris de mon autre batch sûrement. J'ai falsifié le compte. 
-
-Je laisse 1,020 dans mes poches. 
+> [!Calcul argent comptant]
+> **Premier retrait, le 11 juillet**
+> 20,000 : reste 14,000 en papier. 480 en monnaies. Je pense avoir calculé ça en négatif un peu en raison de la monnaies mixes avec mon nouveau retrait. 
+> * 1000 suica
+> * 170 vers Tokyo eiki
+> * 1500 bus de narita environ ? Me semble je l'avais pas payé en crédit. À confirmer. Si c'est le cas, le compte semble bon et j'ai bien trouvé 1,000 dans les poches d'un pantalon use.
+> * 1050 bus beppu 1
+> * 1500 onsen beppu
+> * 300? Il est allé où ? J'ai comme une impression que le 1000 trouvé dans les pantalons était le mien. J'avais sur mois 3000 yen au total aujourd'hui, mais je pensais en avoir pris 4000. Mais. Comment il est arrivé là si c'est le cas ? Il était pas plié comme je plie mes trucs non plus. Wtfffff.
+> 
+> **Deuxième retrait, aujourd'hui**
+> 20,000 : reste 18000 papier. 1400 en monnaies. 
+> * 149 lawson
+> * 880 bus retour. 
+> * ca fait 19,400 Wtf. J'en ai trop pris de mon autre batch sûrement. J'ai falsifié le compte. 
+> 
+> Je laisse 1,020 dans mes poches. 
 
 

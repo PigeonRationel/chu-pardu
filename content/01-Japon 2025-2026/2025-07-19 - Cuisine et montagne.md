@@ -10,7 +10,7 @@ draft: false
 
 La dernière semaine, avec les trois prochaines, marque le début de mon wwoofing au Japon.
 
-![[20250715_133032.jpg|center|500]]
+![[20250715_133032.jpg|center]]
 
 Je travaille donc dans une sorte de soupe populaire, ou plutôt un café-restaurant expérimental, où tout·e·s les employé·e·s sont des bénévoles qui préparent des repas gratuits. La clientèle, libre de payer ou non ce que bon lui semble, se compose majoritairement de touristes et d'habitué·e·s. On est bien loin des stéréotypes du Japon urbain avec ses normes sociales bocké du cul, bien qu'on rentre un peu dans celui du Japon aimable avec cet esprit de communauté assez présent. Les habitués viennent, entrent même dans la cuisine, socialisent autant avec les bénévoles qu'avec le propriétaire, et les touristes s'attendant à un resto à la haute gastronomie hygiénique roulent des yeux et se poussent sans payé après s'être quand même goinfrés.
 
@@ -22,9 +22,9 @@ On a aussi accès à une large gamme d'ingrédients locaux que le proprio, Ryuji
 
 Niveau salubrité, y a de quoi capoter un peu, mais c'est pas la fin du monde non plus. Quoi que... Kyuushu, même si Yufuin est dans un micro-climat assez douillet comparer au reste de la région, c'est salement chaud et humide. Pas rare de retrouver de biens jolies coquerelles cachées entre deux bols ou encore de voir le frigo présentoir suinter au point d'avoir du beau moisi dans ses troues d'aérations.
 
-![[20250715_153119.jpg|center|500]]
+![[20250715_153119.jpg|center]]
 
-![[20250717_091736.jpg|center|500]]
+![[20250717_091736.jpg|center]]
 
 ## La cabane pour le dodo
 
@@ -32,7 +32,7 @@ C'est un peu le même malaise, qui fini par être assez tolérable, voir oublié
 
 Ah ouais, on a aussi accès à un onsen (onsen = source d'eau chaude naturelle. Sinon on parle d'un sento = bain chaud) pour prendre sa douche. C'est la coche, mais le onsen a aussi besoin d'amour un peu. Aller dans l'eau me fait serrer des dents (et du cul honnêtement) de peur qu'un truc s'incruste. Les pierres sont aussi recouvertes de ces petites algues vertes qui font en sorte que j'ai faillie me péter la gueule quelques fois en rentrant dans le bain. Qui sait, maybe que ne pas laver un onsen n'est pas si insalubre que ça ? N'empêche. Le onsen appartient à la famille du proprio du café il me semble.
 
-![[20250715_143213.jpg|center|500]]
+![[20250715_143213.jpg|center]]
 
 # Yufudake
 
@@ -44,6 +44,8 @@ La montagne fait environ 1500 mètres d'altitudes sur une ascension d'environ 4 
 
 Vraiment, le paysage est comme extraordinaire sans l'être. C'est le charme du paysage japonais que j'hais pas. C'est à la fois impressionnant, mais aussi rustique, donnant l'impression d'un paysage familier qui s'évite de tomber dans le sensationnel. C'est pas la Scandinavie, le Népal, le Pérou ou la Nouvelle-Zélande, et c'est pas un mal.
 
-![[20250716_130639.jpg|center|500]]
-![[20250716_132656.jpg|center|500]]
-![[20250716_144238.jpg|center|500]]
+![[20250716_130639.jpg|center]]
+
+![[20250716_132656.jpg|center]]
+
+![[20250716_144238.jpg|center]]
