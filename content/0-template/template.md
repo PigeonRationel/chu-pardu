@@ -1,11 +1,10 @@
 ---
 title:
-  "{ title }": 
+  "{{title}}"
 date:
-  "{ date }": 
+  "{{date}}"
 id:
-  "{ time }": 
+  "{{time}}"
 tags:
-  - exemple-tags
 draft: true
 ---
