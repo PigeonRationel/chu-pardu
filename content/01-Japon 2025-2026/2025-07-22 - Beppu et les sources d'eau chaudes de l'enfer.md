@@ -6,7 +6,7 @@ tags:
 draft: false
 ---
 # Jigoku Beppu
-
+---
 Beppu est un ville intéressante. Elle me fait en quelque sorte pensé à Kyoto en raison de la facilité d'en sortir et de se retrouver en campagne. Et de sa montagne rasée aussi.
 
 Il paraît que Beppu est l'un des endroits les plus reconnus du Japon pour ses onsen et sources d'eau chaude. En particulier pour ses jigaku onsen (onsen de l'enfer kinda) qui sont trop chaud pour être utilisés comme bain. Ils sont alors plutôt utilisés comme circuit touristique franchement pas si fou. Ce devait sûrement être mieux avant genre dans les années 60-80?  Car là on dirait plus un parc d'attraction pas mal trop dispendieux. Les sources en soi sont impressionnantes, mais pas les installations. Ça aurait plus gagné à être aménagé comme un jardin ou un temple qu'une attraction il me semble.
@@ -62,7 +62,7 @@ Je comptais rien acheter, mais j'ai vu une chemise légère en denim et un panta
 149 lawson
 880 bus retour
 
-Environ 10$ de nourriture, 25\$ de transport, 40\$ d'activités. Un total de 7,081 yen = 70.81\$.
+Environ 10\$ de nourriture, 25\$ de transport, 40\$ d'activités. Un total de 7,081 yen = 70.81\$.
 
 Plus un 660 de perdu en raison du retrait = 77.41\$ sans le taux de change. Bref, la journée m'a pas mal coûté 80\$.
 

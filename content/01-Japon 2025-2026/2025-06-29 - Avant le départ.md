@@ -1,12 +1,12 @@
 ---
-title: Avant le départ
+title: 2025-06-29 - Avant le départ
 date: 2025-06-29
 id: "20250629093201"
 tags: 
 draft: false
 ---
 # Quelques notes avant le départ
-
+---
 Bon, bien que j'aie mon visa vacance travaille, il semble que je suis pas trop clear dans ma paperasse. 
 
 Faut je check pour m'ouvrir un compte en banque. Pour ça me faut un numéro de téléphone japonais. Pour ça me faut ma carte résidentielle et potentiellement un numéro de sécurité sociale (NAS ? - Par extension, cela pourrait maybe m'amener à limiter ma dépendance envers mon assurance voyage). Et pooooour ça, me faut une adresse permanente. 

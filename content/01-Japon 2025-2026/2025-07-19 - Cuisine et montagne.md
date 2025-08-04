@@ -5,9 +5,8 @@ id: 20250719171939
 tags: []
 draft: false
 ---
----
 # Harappa Café
-
+---
 La dernière semaine, avec les trois prochaines, marque le début de mon wwoofing au Japon.
 
 ![[20250715_133032.jpg|center]]

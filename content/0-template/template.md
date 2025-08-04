@@ -8,3 +8,5 @@ id:
 tags:
 draft: true
 ---
+{{title}}
+---

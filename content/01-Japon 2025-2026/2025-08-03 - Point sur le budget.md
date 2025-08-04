@@ -6,7 +6,7 @@ tags:
 draft: false
 ---
 # Petit retour sur le budget après 3 semaines de voyage
-
+---
 Je commence ma quatrième semaine au Japon. La première a été à Tokyo alors que les 2 autres à Yufuin avec le wwoofing. Il est alors intéressant de revoir mon budget un peu, question de comparer les dépenses entre un mode de vie plus touristique et celui que permet le wwoofing.
 
 Au total, j'ai dépensé 827.65\$. C'est sans compter le coût du billet d'avion. Dans ce montant, il y a le total des retraits bancaires que j'ai fait, c'est-à-dire deux fois 200\$. Avec le taux de change, 20,000 yen revient en fait à 196-197\$. Le retrait me coûte aussi 5\$. Bref, 20,000 yen me revient environ à 200\$ pile en raison de cela. Évidemment, je n'ai pas tout dépenser mon argent comptant. Revoir mon [[2025-07-22 - Beppu et les sources d'eau chaudes de l'enfer#Argent comptant|magnifique calcul]]. Il m'en reste donc grossièrement 14,000 + 18,000 = 32,000 yen. Soit environ **320\$**.

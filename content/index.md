@@ -4,8 +4,8 @@ date: 2025-06-10
 id: "20250610093201"
 Mise à jour: 2025-07-31
 ---
+# À propos
 ---
-# Sujet amené
 
 [Voici un petit blog suivant mon voyage au Japon sous un visa vacance-travail de l'été 2025 à 2026 ?](https://pigeonrationel.github.io/chu-pardu/). Il ne s'agit pas tant d'un blog que de mon carnet de voyage personnel que je rend public afin d'avoir une excuse pour écrire et apprendre les bases afin de maintenir un site web.
 
@@ -13,7 +13,7 @@ Juste un p'tit test. Je vais mettre ici mes quelques idées, découvertes et pen
 
 # Site web statique en markdown
 
-J'utilise [*Quartz*](https://quartz.jzhao.xyz/) pour faire ça. C'est un générateur de site web statique qui me permet de puiser directement dans mes fichiers *markdown* que je crée avec *Obsidian*. Comme ça, que ce soit sur un ordinateur ou un cell, je n'aurai jamais besoin de me casser la tête. Hop, un petit `npx quartz sync` après avoir synchronisé mes appareils avec *Syncthing* pour mettre automatiquement à jour le blog qui copie les fichiers depuis mon ordinateur. Tout passe via GitHub, que j'utilise aussi pour *host* ce supposé site web.
+J'utilise [*Quartz*](https://quartz.jzhao.xyz/) pour faire ça. C'est un générateur de site web statique qui me permet de puiser directement dans mes fichiers *markdown* que je crée avec *Obsidian*. Comme ça, que ce soit sur un ordinateur ou un cell, je n'aurai jamais besoin de me casser la tête. Hop, un petit `npx quartz build --serve` afin de tester la mise en page puis un `npx quartz sync` après avoir synchronisé mes appareils avec *Syncthing* pour mettre automatiquement à jour le blog qui copie les fichiers depuis mon ordinateur. Tout passe via GitHub, que j'utilise aussi pour *host* ce supposé site web.
 
 ![[20250721_172148.jpg|center|500]]
 <p style="text-align: center; font-size: 0.7em;">Petit test d'image et de légende ici. Il s'agit d'une installation puisant dans une source de onsen. La vapeur d'eau laisse derrière elle des traces rendant une partie de la forêt et des environs blancs. Calcium, sulfure ?</p>

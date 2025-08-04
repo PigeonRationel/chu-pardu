@@ -6,7 +6,7 @@ tags:
 draft: false
 ---
 # La belle zairyu kaado
-
+---
 La zairyu card est une preuve identitaire que les immigrants du Japon reçoivent en arrivant dans le pays, à l'aéroport, en théorie. Cette carte sert en partie à suivre les déplacements des immigrants afin de facilement repérer leur historique résidentielle. Pour y enregistrer une adresse, il faut passer à un hôtel de ville (city office ou city hall) afin de s'enregistrer. Chaque hôtel de ville possède ses propres critères pour accepter un enregistrement. Par exemple, à celui de Taito-ku, la personne m'a dit qu'elle aurait accepté de m'enregistrer si je serais resté plus de deux semaines (la "ville" est annexé à Tokyo. En fait, Tokyo est un amalgame de villes). Il semble qu'une adresse d'hôtel aurait été acceptée de manière temporaire seulement.
 
 Une employée du *Foreign Resident Support Center* m'a cependant expliqué que sous un visa vacance-travail, je pourrais m'en sortir avec une telle adresse comme les services d'immigration seraient plus tolérant dans mon contexte. Cependant, là est le problème : cette carte de merde n'est pas adapté à la réalité d'un visa vacance-travail duquel on s'attend à ce que la personne ne travaille que pour se refaire de l'argent afin de voyager pendant une à deux années. En théorie, une personne sous un tel visa ne devrait jamais se poser bien longtemps à la même place. Donc, ne pourrait que se limiter à une adresse d'hôtel...

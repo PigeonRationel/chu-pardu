@@ -6,7 +6,7 @@ tags:
 draft: false
 ---
 # Vers Yufuin
-
+---
 Déjà sur mon départ pour Yufuin à Kyushu. Mes premiers jours au Japon n'ont rien de bien intéressant à raconter. Ils ont servis à faire quelques emplettes et me renseigner sur la carte zairyu pour enfin savoir comme tout ça marche.
 
 Je suis étonnamment pas dans un mood touriste ou vagabond. Je veux m'investir dans un but, apprendre et rencontrer des gens sur le moyen terme. Pas le temps d'une soirée dans une ruelle de Tokyo. Ce qui fait en sorte que mes 4-5 jours à Tokyo étaient suffisant. Plus, et j'aurais commencé à m'emmerder. 
