@@ -49,7 +49,6 @@ draft: true
 - [ ] remercier Sylvie
 - [x] vérifier pret
 - [x] ram ordi père. 
-- [ ] Grandson.ilostmyfood5.downtown
 - [ ] vol vers Oita
 - [ ] voir club med en Hokkaido pour le travail. Station de ski.
 

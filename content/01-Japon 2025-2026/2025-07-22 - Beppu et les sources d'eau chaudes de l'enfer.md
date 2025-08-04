@@ -13,8 +13,10 @@ Il paraît que Beppu est l'un des endroits les plus reconnus du Japon pour ses o
 
 ![[20250722_135919.jpg|center]]
 <p style="text-align: center; font-size: 0.7em;">On peut voir un peu partout la vapeur de différentes pompes servant à tirer l'eau chaude depuis le sol.</p>
+
 ![[20250722_102811.jpg|center]]
 <p style="text-align: center; font-size: 0.7em;">Hmmm. Me manque un contexte ici.</p>
+
 ![[20250722_125042.jpg|center]]
 
 ![[20250722_133324.jpg|center]]
