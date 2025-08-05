@@ -1,13 +1,13 @@
 ---
-title: 2025-07-30 - Le Harappa Café, suite
-date: 2025-07-31
-id: 20250731134322
+title: 2025-08-05 - Le Harappa Café, suite
+date: 2025-08-05
+id: 20250805134322
 tags:
   - exemple-tags
 draft: true
 ---
 
-My IDcard
+
 Le départ des français
 Prochain wwoofing
 L'apprentissage du japonais
